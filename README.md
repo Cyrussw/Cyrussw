@@ -8,7 +8,7 @@ I like to code, drink tea, play games and watch videos.
 
 ### - 📫 How to reach me
 
-(<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" />)[discord]
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" />[discord]
 (<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />)[instagram]
 
 [discord]: (https://discord.gg/fS6Tzh39WS)
