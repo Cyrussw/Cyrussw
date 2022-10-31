@@ -8,8 +8,8 @@ I like to code, drink tea, play games and watch videos.
 
 ### - 📫 How to reach me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" />](discord)
-(<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />)[instagram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" />](https://discord.gg/fS6Tzh39WS)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />](https://instagram.com/cyruscandils)
 
 [discord]: (https://discord.gg/fS6Tzh39WS)
 [instagram]: (https://instagram.com/cyruscandils)
