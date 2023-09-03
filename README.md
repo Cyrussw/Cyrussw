@@ -1,27 +1,36 @@
-### Merhaba, Ben Burak! :sunglasses:
+# Merhaba, Ben Burak! 👋
 
-## Python Geliştiricisi | Front-End Editörü | Github Başlangıç Seviyesi
+15 yaşındayım ve İzmir'de yaşıyorum. Python ve web geliştirme konularına ilgi duyuyorum. GitHub profilimdeki projeler ve ilgi alanlarım hakkında daha fazla bilgi edinmek için aşağıya bakabilirsiniz.
 
-<font color="#4070f4">`Kendimden bahsetmem gerekirse`;<br>
-Kod yazmayı, çay içmeyi, oyun oynamayı ve video izlemeyi severim.
-</font>
+## Hakkımda
 
-### - 📫 Benimle İletişime Geçin
+- 🌱 Şu an [Python](https://www.python.org/) ve [web geliştirme](https://developer.mozilla.org/en-US/docs/Learn) konularında öğrenme sürecindeyim.
+- 💼 Şu anda kendi projelerim üzerinde çalışıyorum ve kendimi geliştirmeye odaklanıyorum.
+- 🤔 İlgi alanlarım: Web geliştirme, yapay zeka, Python programlama dili.
+- 📫 Benimle iletişime geçmek için Instagram ([@cyruscandils](https://www.instagram.com/cyruscandils/)), Discord (Cyr8s) veya e-posta (cyruscandils@gmail.com) üzerinden iletişim kurabilirsiniz.
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" />](https://discord.gg/fS6Tzh39WS)
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />](https://instagram.com/cyruscandils)
+## Projeler
 
-[discord]: (https://discord.gg/vmNsaZZ35g)
-[instagram]: (https://instagram.com/cyruscandils)
+GitHub'da bazı projeler üzerinde çalışıyorum. İşte bazı örnekler:
 
-<br>
-<br>
+- [**Sairus**](https://github.com/Cyrussw/Sairus): İstekleri yerine getirebilen ve başlangıç seviyesinde düşünebilen bir Python botu.
+- [**SairusWeb**](https://github.com/Cyrussw/SairusWeb): PC yönetimini web sunucusuna taşıyan bir proje.
 
-### - 🖥️ Kullandığım Teknolojiler
-<img height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<br>
+Daha fazla projemi [GitHub sayfamda](https://github.com/Cyrussw) bulabilirsiniz.
+
+## İlgilendiğim Teknolojiler
+
+Bu projeleri geliştirmek ve yeni beceriler öğrenmek için ilgilendiğim bazı teknolojiler:
+
+- 🚀 Web Geliştirme: HTML, CSS, JavaScript ve [web teknolojileri](https://developer.mozilla.org/en-US/docs/Web).
+- 🐍 Python: Python programlama dilinin çeşitli kullanım alanları.
+
+## İş Durumu
+
+Şu anda kendi projelerimi geliştiriyor ve öğreniyorum. Herhangi bir işbirliği veya projeler hakkında konuşmak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin. 
+
+Teşekkür ederim GitHub profilimi ziyaret ettiğiniz için! Daha fazla bilgi edinmek ve yeni insanlarla tanışmak beni mutlu eder, bu yüzden her zaman iletişime geçebilirsiniz.
+
 
 <details>
 <summary>:bulb: Github İstatistikleri</summary>
