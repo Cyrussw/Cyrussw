@@ -14,7 +14,6 @@
 GitHub'da bazı projeler üzerinde çalışıyorum. İşte bazı örnekler:
 
 - [**Sairus**](https://github.com/Cyrussw/Sairus): İstekleri yerine getirebilen ve başlangıç seviyesinde düşünebilen bir Python botu.
-- [**SairusWeb**](https://github.com/Cyrussw/SairusWeb): PC yönetimini web sunucusuna taşıyan bir proje.
 
 Daha fazla projemi [GitHub sayfamda](https://github.com/Cyrussw) bulabilirsiniz.
 
